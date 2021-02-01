@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "95152832279",
+    "firebase_url": "https://commune-f27ad.firebaseio.com",
+    "project_id": "commune-f27ad",
+    "storage_bucket": "commune-f27ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95152832279:android:b968ab8fed9dfb22ae4152",
+        "android_client_info": {
+          "package_name": "com.example.commune"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95152832279-46fljba3gjrphp8barlb8tusfmkmqjcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8oT4bUjYIk40SeJyJ4MuQIG6DR_Y9UgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95152832279-46fljba3gjrphp8barlb8tusfmkmqjcj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
